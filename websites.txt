@@ -1,0 +1,6 @@
+https://www.google.com
+https://www.github.com
+https://www.fake-url-example1234.com
+
+
+* [example websites] [delete all of them before using] [ !! delete this line !! ] *
