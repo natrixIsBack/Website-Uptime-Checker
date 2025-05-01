@@ -13,3 +13,5 @@ A simple Python script to check if websites are online or offline.
 - Install `requirements.txt`
 - Paste your websites in `websites.txt`
 - Run `check_websites.py`
+
+### [natrixIsBack](https://github.com/natrixIsBack) - 2025 - Use this code for free but do not share it or post it to your personal accounts without credits.
